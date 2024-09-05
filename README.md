@@ -54,3 +54,54 @@
 ## Special Rules for Certain Sales
 - **Financial Supplies**: Lending, borrowing, and selling financial products are input-taxed. Some exceptions allow for claiming partial GST credits.
 - **Residential Property Rentals**: Input-taxed, meaning GST credits can't be claimed on expenses related to residential rent.
+
+# Simpler BAS Workbook (Summary)
+
+## Introduction to Simpler BAS
+- **Simpler BAS**: From 1 July 2017, small businesses with a GST turnover of less than $10 million report less GST information.
+- Required to report only:
+  - G1 Total sales
+  - 1A GST on sales
+  - 1B GST on purchases
+- No need to report:
+  - G2 Export sales
+  - G3 GST-free sales
+  - G10 Capital purchases
+  - G11 Non-capital purchases
+
+## Eligibility for Simpler BAS
+- Automatically applied for businesses with a GST turnover of less than $10 million.
+- GST reporting cycle (monthly, quarterly, or annual) is not affected.
+- No effect on reporting of other taxes (e.g., PAYG income tax instalments, PAYG withheld).
+
+## GST Reporting Methods
+- **Simpler BAS Reporting**: For businesses with a turnover under $10 million.
+- **Full Reporting**: For businesses with a turnover of $10 million or more, reporting on a broader range of items including export and capital purchases.
+
+## GST Reporting and Payment Methods
+- Simpler BAS simplifies the lodgment process but still requires businesses to maintain records such as tax invoices.
+- Businesses that qualify for **GST instalments** can pay quarterly and report annually.
+
+## Changes in GST Turnover
+- If GST turnover exceeds $10 million, businesses must switch to full reporting from the start of the next financial year.
+- If turnover falls below $10 million, businesses may move to Simpler BAS from the next tax period.
+
+## GST Bookkeeping Guide
+- Businesses must report taxable sales at G1, GST on sales at 1A, and GST on purchases at 1B.
+- GST-free, input-taxed sales, and non-GST reportable purchases do not need to be included in the BAS.
+- Accurate bookkeeping practices are encouraged to track taxable and non-taxable transactions correctly.
+
+## Special Reporting Rules
+- Businesses using **accounting software** should ensure it supports Simpler BAS.
+- Simplified reporting applies to GST instalment payers and newly registered small businesses.
+
+## Common GST Mistakes to Avoid
+- Misreporting mixed purchases that include both taxable and GST-free components.
+- Forgetting to adjust for private use of business assets or services.
+
+## Lodgment Deadlines
+- Simpler BAS does not change the GST lodgment deadlines, which remain:
+  - Quarterly for small businesses, or
+  - Annually for businesses using the instalment method.
+
+
